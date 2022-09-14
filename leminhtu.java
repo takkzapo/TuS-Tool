@@ -46,6 +46,7 @@ public class Dos implements Runnable {
         }
     }
 
+
      public static void main(String[] args) throws Exception {
         String url = "";
         int attakingAmoun = 0;
